@@ -1,17 +1,17 @@
-# Titulo 
+# Titulo del proyecto
 
-Este es un script de Python diseñado para ----------- 
+Este es un script de Python diseñado para ______________
 
 ## Uso
 
 
 ## Salida
 
-El script imprimirá --------- en la consola. 
+El script imprimirá ____________ en la consola. 
 
 ## Control de errores
 
-Si el archivo proporcionado no existe, el script generará un mensaje de error. Del mismo modo, si el archivo contiene entradas que no son ---------, el script generará un error.
+Si el archivo proporcionado no existe, el script generará un mensaje de error. Del mismo modo, si el archivo contiene entradas que no son ________________, el script generará un error.
 
 ## Pruebas
 
