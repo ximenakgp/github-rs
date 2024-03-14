@@ -1,10 +1,10 @@
 # Nombre del proyecto
 
-Este es un script de Python diseñado para ______________
+Este es un script de Python diseñado para:
 
 ## Uso
 
-Usted puede usar este script de la siguienta manera: 
+Usted puede usar este script de la siguiente manera: 
 
 ## Salida
 
