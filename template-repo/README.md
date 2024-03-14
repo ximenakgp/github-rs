@@ -1,9 +1,10 @@
-# Titulo del proyecto
+# Nombre del proyecto
 
 Este es un script de Python diseñado para ______________
 
 ## Uso
 
+Usted puede usar este script de la siguienta manera: 
 
 ## Salida
 
